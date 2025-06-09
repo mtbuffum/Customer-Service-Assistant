@@ -11,9 +11,9 @@ An intelligent, end-to-end email assistant that:
 
 ## Demo
 
-<img src="screenshots/accuracy_curve.png" width="400" alt="Accuracy over Epochs">
-<img src="screenshots/confusion_matrix.png" width="400" alt="Confusion Matrix">
-<img src="screenshots/learning_curve.png" width="400" alt="Loss and Accuracy Curves">
+<img src="screenshots/Accuracy_Epoch.png" width="400" alt="Accuracy over Epochs">
+<img src="screenshots/Confusion_matrix.png" width="400" alt="Confusion Matrix">
+<img src="screenshots/Learning_Curve.png" width="400" alt="Loss and Accuracy Curves">
 
 ---
 
