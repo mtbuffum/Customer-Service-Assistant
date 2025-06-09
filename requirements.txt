@@ -1,0 +1,27 @@
+# Core ML & NLP
+tensorflow==2.19.0
+scikit-learn==1.6.1
+numpy==2.1.3
+pandas==2.2.3
+
+# Tokenization & Text Utilities
+python-dotenv==1.1.0
+openai==1.84.0
+
+# Gmail API
+google-api-python-client==2.170.0
+google-auth==2.40.2
+google-auth-oauthlib==1.2.2
+httplib2==0.22.0
+oauthlib==3.2.2
+requests-oauthlib==2.0.0
+
+# Email formatting
+requests==2.32.3
+email  # (comes with Python stdlib, not needed in requirements but worth mentioning)
+
+# Plotting (if you keep matplotlib visualizations)
+matplotlib==3.10.3
+
+# Optional (for pretty logging, progress bars)
+tqdm==4.67.1

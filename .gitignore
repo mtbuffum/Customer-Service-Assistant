@@ -1,0 +1,5 @@
+# 🔐 Sensitive credentials and keys
+token.json
+credentials.json
+.env
+
